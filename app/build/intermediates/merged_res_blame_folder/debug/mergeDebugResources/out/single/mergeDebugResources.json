@@ -1,0 +1,174 @@
+[
+    {
+        "merged": "com.mirea.kt.ribo.soberdriver.app-debug-4:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.mirea.kt.ribo.soberdriver.app-main-6:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.mirea.kt.ribo.soberdriver.app-debug-4:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.mirea.kt.ribo.soberdriver.app-main-6:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.mirea.kt.ribo.soberdriver.app-debug-4:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.mirea.kt.ribo.soberdriver.app-main-6:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.mirea.kt.ribo.soberdriver.app-debug-4:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.mirea.kt.ribo.soberdriver.app-main-6:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.mirea.kt.ribo.soberdriver.app-debug-4:/xml_backup_rules.xml.flat",
+        "source": "com.mirea.kt.ribo.soberdriver.app-main-6:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.mirea.kt.ribo.soberdriver.app-debug-4:/layout_activity_display_records.xml.flat",
+        "source": "com.mirea.kt.ribo.soberdriver.app-main-6:/layout/activity_display_records.xml"
+    },
+    {
+        "merged": "com.mirea.kt.ribo.soberdriver.app-debug-4:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.mirea.kt.ribo.soberdriver.app-main-6:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.mirea.kt.ribo.soberdriver.app-debug-4:/drawable_logo.png.flat",
+        "source": "com.mirea.kt.ribo.soberdriver.app-main-6:/drawable/logo.png"
+    },
+    {
+        "merged": "com.mirea.kt.ribo.soberdriver.app-debug-4:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.mirea.kt.ribo.soberdriver.app-pngs-0:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.mirea.kt.ribo.soberdriver.app-debug-4:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.mirea.kt.ribo.soberdriver.app-main-6:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.mirea.kt.ribo.soberdriver.app-debug-4:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.mirea.kt.ribo.soberdriver.app-main-6:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.mirea.kt.ribo.soberdriver.app-debug-4:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.mirea.kt.ribo.soberdriver.app-main-6:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.mirea.kt.ribo.soberdriver.app-debug-4:/layout_student_information_dialog.xml.flat",
+        "source": "com.mirea.kt.ribo.soberdriver.app-main-6:/layout/student_information_dialog.xml"
+    },
+    {
+        "merged": "com.mirea.kt.ribo.soberdriver.app-debug-4:/drawable_circle_toolbar.xml.flat",
+        "source": "com.mirea.kt.ribo.soberdriver.app-main-6:/drawable/circle_toolbar.xml"
+    },
+    {
+        "merged": "com.mirea.kt.ribo.soberdriver.app-debug-4:/font_somic_medium.ttf.flat",
+        "source": "com.mirea.kt.ribo.soberdriver.app-main-6:/font/somic_medium.ttf"
+    },
+    {
+        "merged": "com.mirea.kt.ribo.soberdriver.app-debug-4:/drawable_shield_check.xml.flat",
+        "source": "com.mirea.kt.ribo.soberdriver.app-main-6:/drawable/shield_check.xml"
+    },
+    {
+        "merged": "com.mirea.kt.ribo.soberdriver.app-debug-4:/font_somic_regular.ttf.flat",
+        "source": "com.mirea.kt.ribo.soberdriver.app-main-6:/font/somic_regular.ttf"
+    },
+    {
+        "merged": "com.mirea.kt.ribo.soberdriver.app-debug-4:/drawable_bad_result.png.flat",
+        "source": "com.mirea.kt.ribo.soberdriver.app-main-6:/drawable/bad_result.png"
+    },
+    {
+        "merged": "com.mirea.kt.ribo.soberdriver.app-debug-4:/menu_menu_display_records.xml.flat",
+        "source": "com.mirea.kt.ribo.soberdriver.app-main-6:/menu/menu_display_records.xml"
+    },
+    {
+        "merged": "com.mirea.kt.ribo.soberdriver.app-debug-4:/drawable_shield_warning.xml.flat",
+        "source": "com.mirea.kt.ribo.soberdriver.app-main-6:/drawable/shield_warning.xml"
+    },
+    {
+        "merged": "com.mirea.kt.ribo.soberdriver.app-debug-4:/xml_data_extraction_rules.xml.flat",
+        "source": "com.mirea.kt.ribo.soberdriver.app-main-6:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.mirea.kt.ribo.soberdriver.app-debug-4:/layout_activity_calculation.xml.flat",
+        "source": "com.mirea.kt.ribo.soberdriver.app-main-6:/layout/activity_calculation.xml"
+    },
+    {
+        "merged": "com.mirea.kt.ribo.soberdriver.app-debug-4:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.mirea.kt.ribo.soberdriver.app-main-6:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.mirea.kt.ribo.soberdriver.app-debug-4:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.mirea.kt.ribo.soberdriver.app-main-6:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.mirea.kt.ribo.soberdriver.app-debug-4:/font_somic.xml.flat",
+        "source": "com.mirea.kt.ribo.soberdriver.app-main-6:/font/somic.xml"
+    },
+    {
+        "merged": "com.mirea.kt.ribo.soberdriver.app-debug-4:/layout_item_record.xml.flat",
+        "source": "com.mirea.kt.ribo.soberdriver.app-main-6:/layout/item_record.xml"
+    },
+    {
+        "merged": "com.mirea.kt.ribo.soberdriver.app-debug-4:/drawable_good_result.png.flat",
+        "source": "com.mirea.kt.ribo.soberdriver.app-main-6:/drawable/good_result.png"
+    },
+    {
+        "merged": "com.mirea.kt.ribo.soberdriver.app-debug-4:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.mirea.kt.ribo.soberdriver.app-main-6:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.mirea.kt.ribo.soberdriver.app-debug-4:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.mirea.kt.ribo.soberdriver.app-main-6:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.mirea.kt.ribo.soberdriver.app-debug-4:/font_somic_vf.ttf.flat",
+        "source": "com.mirea.kt.ribo.soberdriver.app-main-6:/font/somic_vf.ttf"
+    },
+    {
+        "merged": "com.mirea.kt.ribo.soberdriver.app-debug-4:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.mirea.kt.ribo.soberdriver.app-main-6:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.mirea.kt.ribo.soberdriver.app-debug-4:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.mirea.kt.ribo.soberdriver.app-main-6:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.mirea.kt.ribo.soberdriver.app-debug-4:/layout_activity_result.xml.flat",
+        "source": "com.mirea.kt.ribo.soberdriver.app-main-6:/layout/activity_result.xml"
+    },
+    {
+        "merged": "com.mirea.kt.ribo.soberdriver.app-debug-4:/menu_my_menu.xml.flat",
+        "source": "com.mirea.kt.ribo.soberdriver.app-main-6:/menu/my_menu.xml"
+    },
+    {
+        "merged": "com.mirea.kt.ribo.soberdriver.app-debug-4:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.mirea.kt.ribo.soberdriver.app-main-6:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.mirea.kt.ribo.soberdriver.app-debug-4:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.mirea.kt.ribo.soberdriver.app-main-6:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.mirea.kt.ribo.soberdriver.app-debug-4:/layout_activity_main.xml.flat",
+        "source": "com.mirea.kt.ribo.soberdriver.app-main-6:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.mirea.kt.ribo.soberdriver.app-debug-4:/drawable_medium_result.png.flat",
+        "source": "com.mirea.kt.ribo.soberdriver.app-main-6:/drawable/medium_result.png"
+    },
+    {
+        "merged": "com.mirea.kt.ribo.soberdriver.app-debug-4:/font_somic_bold.ttf.flat",
+        "source": "com.mirea.kt.ribo.soberdriver.app-main-6:/font/somic_bold.ttf"
+    },
+    {
+        "merged": "com.mirea.kt.ribo.soberdriver.app-debug-4:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.mirea.kt.ribo.soberdriver.app-main-6:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.mirea.kt.ribo.soberdriver.app-debug-4:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.mirea.kt.ribo.soberdriver.app-main-6:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.mirea.kt.ribo.soberdriver.app-debug-4:/drawable_shield_error.xml.flat",
+        "source": "com.mirea.kt.ribo.soberdriver.app-main-6:/drawable/shield_error.xml"
+    },
+    {
+        "merged": "com.mirea.kt.ribo.soberdriver.app-debug-4:/drawable_add_circle.xml.flat",
+        "source": "com.mirea.kt.ribo.soberdriver.app-main-6:/drawable/add_circle.xml"
+    }
+]

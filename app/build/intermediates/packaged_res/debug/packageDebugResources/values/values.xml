@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gender">
+        <item>Мужчина</item>
+        <item>Женщина</item>
+    </string-array>
+    <color name="app_color">#CC7A7A</color>
+    <color name="background_color">#94C7BC</color>
+    <color name="black">#FF000000</color>
+    <color name="green">#8BC34A</color>
+    <color name="green_back">#C8E6C9</color>
+    <color name="ic_launcher_background">#2E6B5A</color>
+    <color name="orange">#FF9800</color>
+    <color name="orange_back">#FFF9C4</color>
+    <color name="red">#a83232</color>
+    <color name="red_back">#b59898</color>
+    <color name="toolbar_color">#009088</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="add_record">Добавить запись</string>
+    <string name="app_name">Alcotest</string>
+    <string name="back">Вернуться назад</string>
+    <string name="bad_result">Результат: Вождение в нетрезвом виде категорически запрещено!</string>
+    <string name="blood_alcohol_level">Уровень алкоголя в крови:</string>
+    <string name="calculate">Рассчитать</string>
+    <string name="clear_records">Очистить записи</string>
+    <string name="drink_strength">Крепость напитка (%)</string>
+    <string name="drink_volume">Объем напитка (мл)</string>
+    <string name="enter_data">Введите данные:</string>
+    <string name="female">Женский</string>
+    <string name="fill_fields">Поля должны быть заполнены!</string>
+    <string name="gender">Ваш пол:</string>
+    <string name="good_result">Результат: Можно садиться за руль!</string>
+    <string name="group">РИБО-04-22</string>
+    <string name="height">Рост (см)</string>
+    <string name="in_ppm">(в промилле)</string>
+    <string name="incorrect_data">Неверные данные</string>
+    <string name="login">Логин</string>
+    <string name="male">Мужской</string>
+    <string name="medium_result">Вождение в нетрезвом виде очень опасно!</string>
+    <string name="password">Пароль</string>
+    <string name="reference">Приложение  не  может  заменить  профессиональную  медицинскую  консультацию.</string>
+    <string name="start_application_button">Войти</string>
+    <string name="student">Хачиров Александр Аликович</string>
+    <string name="the_server_is_not_responding">Сервер не отвечает</string>
+    <string name="time">Время c момента употребления (часы)</string>
+    <string name="weight">Вес (кг)</string>
+    <style name="Base.Theme.SoberDriver" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+        <item name="colorPrimary">@color/red</item>
+        <item name="colorControlNormal">@color/white</item>
+        <item name="colorButtonNormal">@color/white</item>
+
+    </style>
+    <style name="Theme.SoberDriver" parent="Base.Theme.SoberDriver"/>
+</resources>

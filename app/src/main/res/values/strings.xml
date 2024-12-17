@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Alcotest</string>
+    <string name="student">Хачиров Александр Аликович</string>
+    <string name="group">РИБО-04-22</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="start_application_button">Войти</string>
+
+    <string name="the_server_is_not_responding">Сервер не отвечает</string>
+    <string name="incorrect_data">Неверные данные</string>
+    <string name="clear_records">Очистить записи</string>
+    <string name="add_record">Добавить запись</string>
+    <string name="back">Вернуться назад</string>
+    <string name="fill_fields">Поля должны быть заполнены!</string>
+
+    <string name="enter_data">Введите данные:</string>
+    <string name="gender">Ваш пол:</string>
+    <string name="male">Мужской</string>
+    <string name="female">Женский</string>
+    <string name="weight">Вес (кг)</string>
+    <string name="height">Рост (см)</string>
+    <string name="drink_strength">Крепость напитка (%)</string>
+    <string name="drink_volume">Объем напитка (мл)</string>
+    <string name="time">Время c момента употребления (часы)</string>
+    <string name="calculate">Рассчитать</string>
+
+
+    <string name="blood_alcohol_level">Уровень алкоголя в крови:</string>
+    <string name="in_ppm">(в промилле)</string>
+
+    <string name="reference">Приложение  не  может  заменить  профессиональную  медицинскую  консультацию.</string>
+
+    <string name="good_result">Результат: Можно садиться за руль!</string>
+    <string name="medium_result">Вождение в нетрезвом виде очень опасно!</string>
+    <string name="bad_result">Результат: Вождение в нетрезвом виде категорически запрещено!</string>
+
+</resources>
